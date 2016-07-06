@@ -1,0 +1,1 @@
+<?php if(!class_exists("View", false)) exit("no direct access allowed");?><div class="footer" id="footer"><p>Powered by Dubhe © <?php echo date('Y');?></p></div>
